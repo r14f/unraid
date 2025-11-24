@@ -4,6 +4,7 @@
   <Name>All The Mods 10</Name>
   <Repository>r14f/allthemods10</Repository>
   <Registry>https://hub.docker.com/repository/docker/r14f/allthemods10</Registry>
+  <Tag>latest</Tag>
   <Network>bridge</Network>
   <MyIP/>
   <Shell>sh</Shell>
